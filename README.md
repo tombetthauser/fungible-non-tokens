@@ -1,2 +1,3 @@
-# fungible-non-tokens
-A proposal for Fungible Non-Tokens
+# Fungible Non-Tokens: A Proposal
+
+**Abstract.** Ever since the Non-Fungible Token arose as the ultimate manifestation of the art world's age-old dream to tbecome the greatest of all speculative investments, artists and crypto-evangelists alike have wondered what the universal opposite of the NFT might be. In 2022 the question was asked of the Hacker News community and the unequivocal concensus was the "Fungible Non-Token" but the question still remained, what concrete form did this entail? I hereby propose that the theoretical opposite of the NFT (the Fungible Non-Token) has taken corporeal form in the infinitely worthless artifacts (often images) output from generative neural networks / generative models.
